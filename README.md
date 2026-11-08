@@ -1,4 +1,4 @@
-# Silk, Suede & 90s
+# 90s RnB Playlist
 ### 90’s on Repeat
 
 A full-stack playlist app to track favorite 90s R&B songs and artists.
