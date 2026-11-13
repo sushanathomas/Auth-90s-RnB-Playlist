@@ -1,5 +1,5 @@
 # 90s RnB Playlist
-### 90’s on Repeat
+### 90’s on Repeat(auth)
 
 A full-stack playlist app to track favorite 90s R&B songs and artists.
 
